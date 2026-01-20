@@ -1,16 +1,36 @@
-# app_nico
+# PharmaQuest
 
-A new Flutter project.
+Aplicación de aprendizaje farmacológico para quienes tienen interés en Química y Farmacia.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Esta aplicación está pensada para quienes tienen un interés por la Química y Farmacia y encuentran útil aprender con un enfoque visual. 
 
-A few resources to get you started if this is your first Flutter project:
+### Inicializar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplicación aún en beta. Pronto se podrá descargar APK desde Releases. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Problemas
+Para cualquier problema con la app, por favor, utilizar la sección Issues. 
+
+## Autores
+
+- Nicolás
+- Matu (?)
+- José Vicente
+- Liam
+
+## Historial de versiones
+
+No
+
+## TODOs
+
+ - Implementación de Quiz
+ - Modo torneo
+ - Clases cápsula
+ - Ranking
+
+## Licencia 
+
+No 
