@@ -11,15 +11,14 @@ Esta aplicación está pensada para quienes tienen un interés por la Química y
 Aplicación aún en beta. Pronto se podrá descargar APK desde Releases. 
 
 ## Problemas
-
 Para cualquier problema con la app, por favor, utilizar la sección Issues. 
 
 ## Autores
 
-Nicolás
-Matu (?)
-José Vicente
-Liam
+- Nicolás
+- Matu (?)
+- José Vicente
+- Liam
 
 ## Historial de versiones
 
